@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31B431DF-3866-47DB-8FFA-4526622C7C53</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShareDataWritePart</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D3056A0F6EC76EC8DE0DC15D2CEEC17B901B0136</key>
+		<string>https://github.com/happymanx/ShareDataWritePart.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShareDataWritePart.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D3056A0F6EC76EC8DE0DC15D2CEEC17B901B0136</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/happymanx/ShareDataWritePart.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3056A0F6EC76EC8DE0DC15D2CEEC17B901B0136</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3056A0F6EC76EC8DE0DC15D2CEEC17B901B0136</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShareDataWritePart</string>
+		</dict>
+	</array>
+</dict>
+</plist>
